@@ -1,3 +1,6 @@
+// 570611026 KARN
+
+using Lab201;
 using System;
 
 namespace Lab2
