@@ -2,7 +2,7 @@
 
 using Lab202;
 using System;
-
+ 
 namespace Lab2
 {
 	class MainClass
